@@ -8,12 +8,15 @@ Operation process:
 1. Insert the USB camera module into the PC of the win system;
 2. Download the burning tool (CommonBurnerAP) and firmware (GXIVISION-S1M01-Camera Autoparts V1.0. src);
 3. Unzip and open the burning tool and select the firmware;
+
 ![image](https://github.com/Mike-chunsheng/GXIVISION-S1M01-FW-for-Autodarts/assets/169350690/e475bee4-289a-42ea-af84-f76534e984dc)
 
 4. Click on burn to complete the burning process;
+
 ![image](https://github.com/Mike-chunsheng/GXIVISION-S1M01-FW-for-Autodarts/assets/169350690/7ae2af44-fa75-484f-bdaa-adc2f45737e9)
 
 5. If the following burning failure occurs, please click on the burning button again;
+
 ![b4292992ede2b5d3d20dfa39ea5c397](https://github.com/Mike-chunsheng/GXIVISION-S1M01-FW-for-Autodarts/assets/169350690/ce426dd8-f98b-4b57-90cf-da57c4563e4b)
 
 6. Only one file can be burned at a time, please burn them one by one;
