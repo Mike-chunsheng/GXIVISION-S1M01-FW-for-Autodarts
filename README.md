@@ -6,8 +6,8 @@ The camera must be produced by GXIVISON company, as shown in the following model
 
 Operation process:
 1. Insert the USB camera module into the PC of the win system;
-2. Download and unzip GXIVISION-S1M01-FW.zip, CommonBurnerAPexe as the burning tool, GXIVISION-S1M01-Camera Autoparts V1.0.src and GXIVISION-S1M01-initial FW.src as firmware; Among them, GXIVISION-S1M01-Camera Autoparts V1.0.src is the optimized firmware after overexposure, and GXIVISION-S1M01-initial FW.src is the original firmware;
-3. Open the burning tool and select firmware GXIVISION-S1M01-Camera Autoparts V1.0.src;
+2. Download and unzip GXIVISION-S1M01-FW.zip, CommonBurnerAP.exe as the burning tool, GXIVISION-S1M01-Camera-Autoparts-V1.0.src,GXIVISION-S1M01-Camera-Autoparts-V2.0.src,GXIVISION-S1M01-initial-FW-V1.0.src,GXIVISION-S1M01-initial-FW-V2.0.src as firmware; Among them, GXIVISION-S1M01-Camera-Autoparts-V1.0.src is the optimized firmware after overexposure, and GXIVISION-S1M01-initial-FW-V1.0.src is the original firmware,GXIVISION-S1M01-Camera Autoparts V2.0.src is based on GXIVISION-S1M01-Camera Autoparts V1.0.src and implements the function of power-off saving after parameter adjustment. Similarly, GXIVISION-S1M01-initial-FW-V2.0.src implements the function of power-off saving parameters based on GXIVISION-S1M01-initial-FW-V1.0.src. If you need to change the parameters, you can choose the corresponding V2.0 version.
+3. Open the burning tool and select firmware GXIVISION-S1M01-Camera-Autoparts-V1.0.src or GXIVISION-S1M01-Camera-Autoparts-V2.0.src;
 
 ![image](https://github.com/Mike-chunsheng/GXIVISION-S1M01-FW-for-Autodarts/assets/169350690/e475bee4-289a-42ea-af84-f76534e984dc)
 
@@ -20,7 +20,7 @@ Operation process:
 ![b4292992ede2b5d3d20dfa39ea5c397](https://github.com/Mike-chunsheng/GXIVISION-S1M01-FW-for-Autodarts/assets/169350690/ce426dd8-f98b-4b57-90cf-da57c4563e4b)
 
 6. Only one file can be burned at a time, please burn them one by one;
-7. If you think the effect after burning is not as good as before, you can download the firmware (GXIVISION-S1M01 initial FW. src) to burn it back, and the burning process should follow the same steps as above
+7. If you think the effect after burning is not as good as before, you can download the firmware (GXIVISION-S1M01-initial-FW-V1.0.src or GXIVISION-S1M01-initial-FW-V2.0.src) to burn it back, and the burning process should follow the same steps as above
 
 
 Finally, to the user:
